@@ -1,16 +1,23 @@
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **OLÁÁ!** &nbsp;
+![banner](https://user-images.githubusercontent.com/93009516/164511619-9bf8538f-e84a-482b-9952-5f19d933e04f.png)
 
-   Eu sou Ingrid Mattos e durante os últimos anos eu decidi aprender tudo o que eu já quis na minha vida.
-Pois eu acredito que com coragem, curiosidade e dedicação conseguimos alcançar ótimos resultados em qualquer objetivo traçado.
-Este repositório é o resultado de tudo o que me fez chegar até aqui, seja bem vindo.
 
-Um fato curioso sobre mim é sou uma entusiasta das artes, aprendi a desenhar e a pintar sozinha, e essa é uma das coisas que me deu coragem para mergulhar na area de tecnologia, fazendo uma tranzição de carreira. 
+Sou uma desenvolvedora em construção <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" width="30px" style="max-width: 100%;">
+<br>
+Enstusiastas das artes <img class="emoji" alt="art" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a8.png"> principalmente desenho e pintura <img class="emoji" alt="heart" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png"> aquarela <img class="emoji" alt="heart" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png">
+<br>
+Em transição de carreira após encontrar e decidir a aprender o que sempre quis fazer na vida <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Rocket.gif" width="18px" style="max-width: 100%;">
+<br>
+Acredito que com coragem, curiosidade e dedicação conseguimos alcançar ótimos resultados em qualquer objetivo traçado.
+<br>
+Este repositório é o resultado de tudo o que me fez chegar até aqui <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **SEJA BEM-VINDO** &nbsp; <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" width="24px" style="max-width: 100%;">
+
+
 <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
   
 
 ## Meu aprendizado:
 
-Atualmente sou estudante de desenvolvimento web, Full-Stack, na Trybe. Onde acabei de finalizar o módulo de Front-end para iniciar o de Back-end.Em Front desenvolvi habilidade em Javascript, DOM, React Redux, Context API, Testes Unitários, CSS, HTML entre outros... E sobre o Back-end ? Ele ainda estou desbravando!!
+Atualmente sou estudante de desenvolvimento web, Full-Stack, na Trybe. Acabei de finalizar o módulo de Front-end para iniciar o de Back.Em Front desenvolvi habilidade em Javascript, DOM, React Redux, Context API, Testes Unitários, CSS, HTML entre outros...  E sobre o Back-end ?  Ele ainda estou desbravando!!
 
 
 ## Linguagens:
