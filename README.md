@@ -1,9 +1,9 @@
-![banner](https://user-images.githubusercontent.com/93009516/164511619-9bf8538f-e84a-482b-9952-5f19d933e04f.png)
 
+![Simple Technology LinkedIn Banner (1)](https://user-images.githubusercontent.com/93009516/164546100-65c8f39b-cebd-43e2-ae6c-d4b95f21fcb2.png)
 
 Sou uma desenvolvedora em construção <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" width="30px" style="max-width: 100%;">
 <br>
-Enstusiastas das artes <img class="emoji" alt="art" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a8.png"> principalmente desenho e pintura <img class="emoji" alt="heart" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png"> aquarela <img class="emoji" alt="heart" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png">
+Vegetariana e enstusiasta das artes <img class="emoji" alt="art" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a8.png"> principalmente desenho e pintura <img class="emoji" alt="heart" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png"> Aquarela <img class="emoji" alt="heart" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png">
 <br>
 Em transição de carreira após encontrar e decidir aprender o que sempre quis fazer na vida <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Rocket.gif" width="18px" style="max-width: 100%;">
 <br>
@@ -46,6 +46,6 @@ Atualmente sou estudante de desenvolvimento web, Full-Stack, na <a href="http://
 <a href="https://www.linkedin.com/in/ingrid-mattos/" rel="nofollow"><img width="15%" src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" style="max-width: 100%;"></a>
 <a href="mailto:ingrid_matt@hotmail.com"><img width="25%" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" style="max-width: 100%;"></a>
 <a href="https://api.whatsapp.com/send?phone=5521974283714" rel="nofollow"><img width="15%" src="https://camo.githubusercontent.com/d9d4db0a25f6d41d6ef282c6adc2f9bd5b31201ef00ba580f5a945da4063a937/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57686174734170702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465" style="max-width: 100%;"></a> 
-  🤜🤛 Grupo: 
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Handshake.gif" height="32px" style="max-width: 100%;"></a>
 
 
