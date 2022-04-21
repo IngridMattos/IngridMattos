@@ -22,7 +22,11 @@ Atualmente sou estudante de desenvolvimento web, Full-Stack, na <a href="http://
 
 ## Estatisticas:
 
-<img height="128em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingridmattos&layout=compact&langs_count=7&theme=jolly"/>&nbsp;<img height="128em" src="https://github-readme-stats.vercel.app/api?username=ingridmattos&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+<img height="128em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingridmattos&layout=compact&langs_count=7&theme=outrun"/>&nbsp;<img height="128em" src="https://github-readme-stats.vercel.app/api?username=ingridmattos&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
+
+##
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=IngridMattos&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Linguagens e ferramentas Front-end:
    <div>
