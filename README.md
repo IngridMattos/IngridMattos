@@ -1,9 +1,9 @@
 
 ![Simple Technology LinkedIn Banner (1)](https://user-images.githubusercontent.com/93009516/164546100-65c8f39b-cebd-43e2-ae6c-d4b95f21fcb2.png)
-
+## Sobre mim: 
 Sou uma desenvolvedora em construção <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" width="30px" style="max-width: 100%;">
 <br>
-Vegetariana e enstusiasta das artes <img class="emoji" alt="art" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a8.png"> principalmente desenho e pintura <img class="emoji" alt="heart" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png"> Aquarela <img class="emoji" alt="heart" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png">
+Vegetariana :cow: :seedling: e enstusiasta das artes :art: principalmente desenho e pintura :purple_heart: Aquarela :purple_heart:
 <br>
 Em transição de carreira após encontrar e decidir aprender o que sempre quis fazer na vida <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Rocket.gif" width="18px" style="max-width: 100%;">
 <br>
@@ -21,7 +21,6 @@ Atualmente sou estudante de desenvolvimento web, Full-Stack, na <a href="http://
 <br>
 
 ## Estatisticas:
-
 <img height="128em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingridmattos&layout=compact&langs_count=7&theme=outrun"/>&nbsp;<img height="128em" src="https://github-readme-stats.vercel.app/api?username=ingridmattos&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
 
 ##
