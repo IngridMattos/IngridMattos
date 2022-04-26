@@ -3,7 +3,7 @@
 ## Sobre mim: 
 Sou uma desenvolvedora em construção <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" width="30px" style="max-width: 100%;">
 <br>
-Vegetariana :cow: :seedling: e enstusiasta das artes :art: principalmente desenho e pintura :purple_heart: Aquarela :purple_heart:
+Vegetariana :cow: :seedling: e entusiasta das artes :art: principalmente desenho e pintura :purple_heart: Aquarela :purple_heart:
 <br>
 Em transição de carreira após encontrar e decidir aprender o que sempre quis fazer na vida <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Rocket.gif" width="18px" style="max-width: 100%;">
 <br>
