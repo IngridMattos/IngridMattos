@@ -1,15 +1,14 @@
 
-![Simple Technology LinkedIn Banner (1)](https://user-images.githubusercontent.com/93009516/164546100-65c8f39b-cebd-43e2-ae6c-d4b95f21fcb2.png)
 ## Sobre mim: 
 Sou uma desenvolvedora em construção <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" width="30px" style="max-width: 100%;">
 <br>
 Vegetariana :cow: :seedling: e entusiasta das artes :art: principalmente desenho e pintura :purple_heart: Aquarela :purple_heart:
 <br>
-Em transição de carreira após encontrar e decidir aprender o que sempre quis fazer na vida <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Rocket.gif" width="18px" style="max-width: 100%;">
+Em transição de carreira após encontrar e decidir aprender o que sempre quis fazer na vida.
 <br>
 Acredito que com coragem, curiosidade e dedicação conseguimos alcançar ótimos resultados em qualquer objetivo traçado.
 <br>
-Este repositório é o resultado de tudo o que me fez chegar até aqui <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **SEJA BEM-VINDO** &nbsp; <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" width="24px" style="max-width: 100%;">
+Este repositório é o resultado de tudo o que me fez chegar até aqui **SEJA BEM-VINDO** &nbsp; <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" width="24px" style="max-width: 100%;">
 
 
 <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
