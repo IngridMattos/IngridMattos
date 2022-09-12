@@ -24,8 +24,6 @@ Atualmente sou estudante de desenvolvimento web, Full-Stack, na <a href="http://
 
 ##
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=IngridMattos&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## Linguagens e ferramentas Front-end:
    <div>
    <img title="JavaScript" height="40" src="https://img.icons8.com/color/48/000000/javascript--v2.png" />
