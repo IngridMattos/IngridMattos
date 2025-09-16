@@ -26,7 +26,7 @@
 
 ## 📈 Estatísticas do GitHub
 
-![Ingrid's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula)
+![Ingrid's GitHub stats](https://github-readme-stats.vercel.app/api?username=IngridMattos&show_icons=true&theme=dracula)
 
 ---
 
